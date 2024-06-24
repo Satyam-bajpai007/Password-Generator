@@ -1,0 +1,6 @@
+[submodule "React-Native-Projects"]
+	path = React-Native-Projects
+	url = https://github.com/Satyam-bajpai007/React-Native-Projects.git
+[submodule "submodules/React-Native-Projects"]
+	path = submodules/React-Native-Projects
+	url = https://github.com/Satyam-bajpai007/React-Native-Projects.git
